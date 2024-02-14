@@ -1,14 +1,14 @@
 {
-  "name": "mp0",
+  "name": "card",
   "version": "1.0.0",
-  "description": "CS498RK MP0",
+  "description": "",
   "scripts": {
     "build": "export NODE_OPTIONS=--openssl-legacy-provider; webpack",
     "start": "export NODE_OPTIONS=--openssl-legacy-provider; webpack-dev-server --open",
     "watch": "export NODE_OPTIONS=--openssl-legacy-provider; webpack --watch"
   },
   "keywords": [],
-  "author": "UIUC Web Programming Staff",
+  "author": "",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
